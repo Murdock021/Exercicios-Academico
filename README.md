@@ -12,7 +12,7 @@ Acesse a demonstração ao vivo: [https://playcode.io](https://playcode.io/23679
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido como atividade prática da disciplina de JavaScript, demonstrando:
+Este projeto foi desenvolvido como atividade prática da disciplina de JavaScript, tendo a obrigatoriedade de ser ferito em um arquivo index.html demonstrando:
 
 - Validação de email com expressões regulares
 - Validação de senha com comprimento mínimo
@@ -38,7 +38,7 @@ Este projeto foi desenvolvido como atividade prática da disciplina de JavaScrip
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/email-validation-form.git
+git clone https://github.com/Murdock021/Exercicios-Academico.git
 ```
 
 2. Abra o arquivo `index.html` em qualquer navegador
@@ -90,26 +90,14 @@ Verifica:
 - Domínio após @
 - Ponto seguido de extensão
 
-## 🌟 Próximas Melhorias
-
-- [ ] Adicionar validação de senha forte
-- [ ] Implementar autenticação real
-- [ ] Adicionar testes unitários
-- [ ] Melhorar acessibilidade com ARIA
-- [ ] Integrar com backend
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👤 Autor
 
 Seu Nome
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seuemail@dominio.com
+- GitHub: [@Murdock021](https://github.com/Murdock021)
+- Email: DiogoMachadocmb@gmail.com
 
 ## 🤝 Contribuição
-
+a
 Contribuições são sempre bem-vindas!
 
 1. Faça um Fork do projeto
@@ -130,4 +118,4 @@ Este projeto demonstra conceitos fundamentais de desenvolvimento web:
 
 ---
 
-⌨️ com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+⌨️ por [Diogo Machado](https://github.com/Murdock021)
